@@ -1,0 +1,120 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c11",
+      "-pthread",
+      "-I/usr/include",
+      "-o",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/client",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/client.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/Echo_Server",
+    "file": "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/client.cpp",
+    "output": "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/client"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c11",
+      "-pthread",
+      "-I/usr/include",
+      "-o",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/server",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/server.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/Echo_Server",
+    "file": "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/server.cpp",
+    "output": "/home/kevin/cpp-projects/Echo_Server/c_style/Simple_EchoServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c11",
+      "-pthread",
+      "-I/usr/include",
+      "-o",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/client",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/client.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/Echo_Server",
+    "file": "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/client.cpp",
+    "output": "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/client"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c11",
+      "-pthread",
+      "-I/usr/include",
+      "-o",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/server",
+      "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/server.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/Echo_Server",
+    "file": "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/server.cpp",
+    "output": "/home/kevin/cpp-projects/Echo_Server/c_style/Multithread_EchoServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++20",
+      "-pthread",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/client",
+      "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/client.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/Echo_Server",
+    "file": "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/client.cpp",
+    "output": "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/client"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++20",
+      "-pthread",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/server",
+      "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/server.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/Echo_Server",
+    "file": "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/server.cpp",
+    "output": "/home/kevin/cpp-projects/Echo_Server/cpp_style/Multithread_EchoServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++20",
+      "-pthread",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "/home/kevin/cpp-projects/Echo_Server/cpp_style/adv_EchoServer/server",
+      "/home/kevin/cpp-projects/Echo_Server/cpp_style/adv_EchoServer/server.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/Echo_Server",
+    "file": "/home/kevin/cpp-projects/Echo_Server/cpp_style/adv_EchoServer/server.cpp",
+    "output": "/home/kevin/cpp-projects/Echo_Server/cpp_style/adv_EchoServer/server"
+  }
+]

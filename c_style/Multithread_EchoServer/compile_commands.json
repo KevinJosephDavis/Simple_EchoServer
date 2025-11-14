@@ -1,0 +1,121 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++11",  
+      "-I/usr/include/c++/11",  
+      "-I/usr/include/x86_64-linux-gnu/c++/11",  
+      "-I/usr/include",  
+      "-o",
+      "server",
+      "main.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/TinyWebServer",
+    "file": "/home/kevin/cpp-projects/TinyWebServer/main.cpp",
+    "output": "/home/kevin/cpp-projects/TinyWebServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++11",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "server",
+      "timer/lst_timer.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/TinyWebServer",
+    "file": "/home/kevin/cpp-projects/TinyWebServer/timer/lst_timer.cpp",
+    "output": "/home/kevin/cpp-projects/TinyWebServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++11",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "server",
+      "http/http_conn.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/TinyWebServer",
+    "file": "/home/kevin/cpp-projects/TinyWebServer/http/http_conn.cpp",
+    "output": "/home/kevin/cpp-projects/TinyWebServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++11",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "server",
+      "log/log.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/TinyWebServer",
+    "file": "/home/kevin/cpp-projects/TinyWebServer/log/log.cpp",
+    "output": "/home/kevin/cpp-projects/TinyWebServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++11",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "server",
+      "CGImysql/sql_connection_pool.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/TinyWebServer",
+    "file": "/home/kevin/cpp-projects/TinyWebServer/CGImysql/sql_connection_pool.cpp",
+    "output": "/home/kevin/cpp-projects/TinyWebServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++11",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "server",
+      "webserver.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/TinyWebServer",
+    "file": "/home/kevin/cpp-projects/TinyWebServer/webserver.cpp",
+    "output": "/home/kevin/cpp-projects/TinyWebServer/server"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-g",
+      "-std=c++11",
+      "-I/usr/include/c++/11",
+      "-I/usr/include/x86_64-linux-gnu/c++/11",
+      "-I/usr/include",
+      "-o",
+      "server",
+      "config.cpp"
+    ],
+    "directory": "/home/kevin/cpp-projects/TinyWebServer",
+    "file": "/home/kevin/cpp-projects/TinyWebServer/config.cpp",
+    "output": "/home/kevin/cpp-projects/TinyWebServer/server"
+  }
+]
