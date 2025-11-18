@@ -10,12 +10,11 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <sys/epoll.h>
-#include <fcntl.h>  // 用于设置非阻塞 IO
+#include <fcntl.h>  //设置非阻塞 IO
 
-// 常量定义（现代 C++ 优先用 constexpr）
 constexpr int PORT = 8080;
 constexpr int BUFFER_SIZE = 4096;
-constexpr int MAX_EVENTS = 1024;  // epoll 最大监听事件数（可调整）
+constexpr int MAX_EVENTS = 1024;  //epoll 最大监听事件数
 constexpr int EPOLL_TIMEOUT = -1; // epoll_wait 阻塞时间（-1 表示无限阻塞，直到有事件）
 
 // 客户端数据结构（复用你原有的逻辑）
